@@ -1,0 +1,4 @@
+flask
+apispec[yaml]
+pandas
+python-dotenv

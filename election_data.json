@@ -1,0 +1,26 @@
+{
+  "Idaho": {
+    "South Leslie": {
+      "Democrats": {
+        "Schneider": 249,
+        "Edwards": 228
+      },
+      "Republicans": {
+        "White": 439,
+        "Foster": 364
+      }
+    }
+  },
+  "Arizona": {
+    "Rebeccatown": {
+      "Democrats": {
+        "Schneider": 191,
+        "Edwards": 502
+      },
+      "Republicans": {
+        "White": 531,
+        "Foster": 295
+      }
+    }
+  }
+}
