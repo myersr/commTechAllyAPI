@@ -1,3 +1,5 @@
+# This file is a graveyard of tries and fails. Not relevant to the running server
+
 import pandas as pd
 import json
 from glom import glom
