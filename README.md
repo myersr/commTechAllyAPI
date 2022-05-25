@@ -39,7 +39,7 @@ docker build . -t election_results
 ```
 You can launch the container with
 ```bash
-docker run --rm -it election_results
+docker run --rm -it -p 5000:5000 election_results
 ```
 
 
