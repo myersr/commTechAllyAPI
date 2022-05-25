@@ -4,16 +4,16 @@ import json
 
 fake = Faker()
 
-state_limit = 2
-dem_limit = 2
-rep_limit = 2
+state_limit = 20
+dem_limit = 6
+rep_limit = 7
 mast_json = {}
 states = [fake.unique.state() for i in range(state_limit)]
-dem_candidates = [fake.unique.last_name() for i in range(dem_limit)]
-rep_candidates = [fake.unique.last_name() for i in range(rep_limit)]
+dem_candidates = [fake.unique.last_name() for i in range(1, dem_limit)]
+rep_candidates = [fake.unique.last_name() for i in range(1, rep_limit)]
 for x in states:
     state_level = {}
-    counties = [fake.unique.city() for i in range(np.random.randint(1,2))]
+    counties = [fake.unique.city() for i in range(np.random.randint(2, 5))]
     for y in counties:
         county_level = {}
         democrat_level = {}

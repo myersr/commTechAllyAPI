@@ -1,25 +1,1078 @@
 {
-  "Idaho": {
-    "South Leslie": {
+  "New York": {
+    "Ashleyhaven": {
       "Democrats": {
-        "Schneider": 249,
-        "Edwards": 228
+        "Patel": 4,
+        "Abbott": 290,
+        "Ortega": 364,
+        "Sherman": 8,
+        "Lewis": 17
       },
       "Republicans": {
-        "White": 439,
-        "Foster": 364
+        "Fletcher": 80,
+        "Hampton": 257,
+        "Russell": 544,
+        "Owen": 391,
+        "Oliver": 139,
+        "Torres": 361
+      }
+    },
+    "Wendyberg": {
+      "Democrats": {
+        "Patel": 294,
+        "Abbott": 544,
+        "Ortega": 356,
+        "Sherman": 354,
+        "Lewis": 590
+      },
+      "Republicans": {
+        "Fletcher": 215,
+        "Hampton": 350,
+        "Russell": 559,
+        "Owen": 438,
+        "Oliver": 388,
+        "Torres": 12
+      }
+    },
+    "Lisaborough": {
+      "Democrats": {
+        "Patel": 435,
+        "Abbott": 180,
+        "Ortega": 35,
+        "Sherman": 180,
+        "Lewis": 12
+      },
+      "Republicans": {
+        "Fletcher": 316,
+        "Hampton": 440,
+        "Russell": 325,
+        "Owen": 405,
+        "Oliver": 594,
+        "Torres": 273
+      }
+    },
+    "South Joshuaport": {
+      "Democrats": {
+        "Patel": 461,
+        "Abbott": 515,
+        "Ortega": 481,
+        "Sherman": 568,
+        "Lewis": 223
+      },
+      "Republicans": {
+        "Fletcher": 26,
+        "Hampton": 410,
+        "Russell": 427,
+        "Owen": 186,
+        "Oliver": 49,
+        "Torres": 304
       }
     }
   },
-  "Arizona": {
-    "Rebeccatown": {
+  "Maine": {
+    "Larrytown": {
       "Democrats": {
-        "Schneider": 191,
-        "Edwards": 502
+        "Patel": 454,
+        "Abbott": 150,
+        "Ortega": 347,
+        "Sherman": 164,
+        "Lewis": 591
       },
       "Republicans": {
-        "White": 531,
-        "Foster": 295
+        "Fletcher": 367,
+        "Hampton": 410,
+        "Russell": 280,
+        "Owen": 85,
+        "Oliver": 0,
+        "Torres": 272
+      }
+    },
+    "Joseside": {
+      "Democrats": {
+        "Patel": 54,
+        "Abbott": 338,
+        "Ortega": 9,
+        "Sherman": 33,
+        "Lewis": 13
+      },
+      "Republicans": {
+        "Fletcher": 529,
+        "Hampton": 473,
+        "Russell": 16,
+        "Owen": 19,
+        "Oliver": 203,
+        "Torres": 595
+      }
+    },
+    "Oliviachester": {
+      "Democrats": {
+        "Patel": 487,
+        "Abbott": 360,
+        "Ortega": 178,
+        "Sherman": 264,
+        "Lewis": 243
+      },
+      "Republicans": {
+        "Fletcher": 500,
+        "Hampton": 491,
+        "Russell": 336,
+        "Owen": 153,
+        "Oliver": 164,
+        "Torres": 8
+      }
+    }
+  },
+  "Mississippi": {
+    "Gregoryton": {
+      "Democrats": {
+        "Patel": 247,
+        "Abbott": 420,
+        "Ortega": 333,
+        "Sherman": 324,
+        "Lewis": 239
+      },
+      "Republicans": {
+        "Fletcher": 58,
+        "Hampton": 340,
+        "Russell": 394,
+        "Owen": 579,
+        "Oliver": 393,
+        "Torres": 443
+      }
+    },
+    "Jonesville": {
+      "Democrats": {
+        "Patel": 204,
+        "Abbott": 176,
+        "Ortega": 287,
+        "Sherman": 571,
+        "Lewis": 291
+      },
+      "Republicans": {
+        "Fletcher": 406,
+        "Hampton": 535,
+        "Russell": 307,
+        "Owen": 162,
+        "Oliver": 235,
+        "Torres": 301
+      }
+    },
+    "East Coreyton": {
+      "Democrats": {
+        "Patel": 34,
+        "Abbott": 533,
+        "Ortega": 465,
+        "Sherman": 42,
+        "Lewis": 37
+      },
+      "Republicans": {
+        "Fletcher": 209,
+        "Hampton": 530,
+        "Russell": 41,
+        "Owen": 315,
+        "Oliver": 82,
+        "Torres": 371
+      }
+    },
+    "Hollyville": {
+      "Democrats": {
+        "Patel": 366,
+        "Abbott": 141,
+        "Ortega": 466,
+        "Sherman": 49,
+        "Lewis": 134
+      },
+      "Republicans": {
+        "Fletcher": 10,
+        "Hampton": 449,
+        "Russell": 221,
+        "Owen": 268,
+        "Oliver": 352,
+        "Torres": 32
+      }
+    }
+  },
+  "Nevada": {
+    "New Vincentborough": {
+      "Democrats": {
+        "Patel": 182,
+        "Abbott": 292,
+        "Ortega": 81,
+        "Sherman": 131,
+        "Lewis": 431
+      },
+      "Republicans": {
+        "Fletcher": 559,
+        "Hampton": 391,
+        "Russell": 379,
+        "Owen": 13,
+        "Oliver": 5,
+        "Torres": 318
+      }
+    },
+    "South George": {
+      "Democrats": {
+        "Patel": 586,
+        "Abbott": 501,
+        "Ortega": 273,
+        "Sherman": 146,
+        "Lewis": 312
+      },
+      "Republicans": {
+        "Fletcher": 294,
+        "Hampton": 297,
+        "Russell": 306,
+        "Owen": 389,
+        "Oliver": 247,
+        "Torres": 8
+      }
+    }
+  },
+  "Florida": {
+    "South Johnbury": {
+      "Democrats": {
+        "Patel": 468,
+        "Abbott": 266,
+        "Ortega": 355,
+        "Sherman": 255,
+        "Lewis": 250
+      },
+      "Republicans": {
+        "Fletcher": 357,
+        "Hampton": 85,
+        "Russell": 259,
+        "Owen": 516,
+        "Oliver": 560,
+        "Torres": 118
+      }
+    },
+    "Justinfurt": {
+      "Democrats": {
+        "Patel": 73,
+        "Abbott": 16,
+        "Ortega": 80,
+        "Sherman": 420,
+        "Lewis": 552
+      },
+      "Republicans": {
+        "Fletcher": 360,
+        "Hampton": 372,
+        "Russell": 535,
+        "Owen": 473,
+        "Oliver": 422,
+        "Torres": 551
+      }
+    },
+    "Chavezburgh": {
+      "Democrats": {
+        "Patel": 411,
+        "Abbott": 223,
+        "Ortega": 576,
+        "Sherman": 519,
+        "Lewis": 518
+      },
+      "Republicans": {
+        "Fletcher": 294,
+        "Hampton": 471,
+        "Russell": 578,
+        "Owen": 259,
+        "Oliver": 311,
+        "Torres": 571
+      }
+    }
+  },
+  "Oklahoma": {
+    "North Zacharytown": {
+      "Democrats": {
+        "Patel": 41,
+        "Abbott": 393,
+        "Ortega": 192,
+        "Sherman": 121,
+        "Lewis": 296
+      },
+      "Republicans": {
+        "Fletcher": 87,
+        "Hampton": 95,
+        "Russell": 479,
+        "Owen": 157,
+        "Oliver": 132,
+        "Torres": 341
+      }
+    },
+    "North Jillmouth": {
+      "Democrats": {
+        "Patel": 151,
+        "Abbott": 585,
+        "Ortega": 430,
+        "Sherman": 44,
+        "Lewis": 460
+      },
+      "Republicans": {
+        "Fletcher": 165,
+        "Hampton": 8,
+        "Russell": 199,
+        "Owen": 39,
+        "Oliver": 516,
+        "Torres": 447
+      }
+    },
+    "Longchester": {
+      "Democrats": {
+        "Patel": 89,
+        "Abbott": 469,
+        "Ortega": 151,
+        "Sherman": 229,
+        "Lewis": 599
+      },
+      "Republicans": {
+        "Fletcher": 95,
+        "Hampton": 455,
+        "Russell": 132,
+        "Owen": 271,
+        "Oliver": 567,
+        "Torres": 525
+      }
+    }
+  },
+  "Rhode Island": {
+    "Julianhaven": {
+      "Democrats": {
+        "Patel": 282,
+        "Abbott": 372,
+        "Ortega": 592,
+        "Sherman": 539,
+        "Lewis": 456
+      },
+      "Republicans": {
+        "Fletcher": 75,
+        "Hampton": 60,
+        "Russell": 394,
+        "Owen": 526,
+        "Oliver": 532,
+        "Torres": 315
+      }
+    },
+    "New Michaelhaven": {
+      "Democrats": {
+        "Patel": 498,
+        "Abbott": 318,
+        "Ortega": 295,
+        "Sherman": 434,
+        "Lewis": 534
+      },
+      "Republicans": {
+        "Fletcher": 530,
+        "Hampton": 341,
+        "Russell": 391,
+        "Owen": 293,
+        "Oliver": 414,
+        "Torres": 193
+      }
+    },
+    "Barretttown": {
+      "Democrats": {
+        "Patel": 391,
+        "Abbott": 417,
+        "Ortega": 406,
+        "Sherman": 556,
+        "Lewis": 332
+      },
+      "Republicans": {
+        "Fletcher": 246,
+        "Hampton": 566,
+        "Russell": 522,
+        "Owen": 173,
+        "Oliver": 191,
+        "Torres": 528
+      }
+    },
+    "New Matthew": {
+      "Democrats": {
+        "Patel": 275,
+        "Abbott": 502,
+        "Ortega": 180,
+        "Sherman": 288,
+        "Lewis": 592
+      },
+      "Republicans": {
+        "Fletcher": 346,
+        "Hampton": 77,
+        "Russell": 537,
+        "Owen": 298,
+        "Oliver": 575,
+        "Torres": 303
+      }
+    }
+  },
+  "Georgia": {
+    "Thomasmouth": {
+      "Democrats": {
+        "Patel": 151,
+        "Abbott": 430,
+        "Ortega": 558,
+        "Sherman": 36,
+        "Lewis": 270
+      },
+      "Republicans": {
+        "Fletcher": 182,
+        "Hampton": 26,
+        "Russell": 129,
+        "Owen": 188,
+        "Oliver": 453,
+        "Torres": 108
+      }
+    },
+    "Lake Brittany": {
+      "Democrats": {
+        "Patel": 359,
+        "Abbott": 517,
+        "Ortega": 561,
+        "Sherman": 165,
+        "Lewis": 501
+      },
+      "Republicans": {
+        "Fletcher": 395,
+        "Hampton": 154,
+        "Russell": 205,
+        "Owen": 273,
+        "Oliver": 232,
+        "Torres": 597
+      }
+    },
+    "West Brittanyburgh": {
+      "Democrats": {
+        "Patel": 260,
+        "Abbott": 110,
+        "Ortega": 169,
+        "Sherman": 473,
+        "Lewis": 58
+      },
+      "Republicans": {
+        "Fletcher": 246,
+        "Hampton": 537,
+        "Russell": 569,
+        "Owen": 380,
+        "Oliver": 412,
+        "Torres": 94
+      }
+    }
+  },
+  "Michigan": {
+    "Lake Danny": {
+      "Democrats": {
+        "Patel": 467,
+        "Abbott": 257,
+        "Ortega": 50,
+        "Sherman": 299,
+        "Lewis": 535
+      },
+      "Republicans": {
+        "Fletcher": 507,
+        "Hampton": 230,
+        "Russell": 133,
+        "Owen": 301,
+        "Oliver": 335,
+        "Torres": 225
+      }
+    },
+    "North Meganmouth": {
+      "Democrats": {
+        "Patel": 38,
+        "Abbott": 105,
+        "Ortega": 598,
+        "Sherman": 202,
+        "Lewis": 522
+      },
+      "Republicans": {
+        "Fletcher": 95,
+        "Hampton": 169,
+        "Russell": 497,
+        "Owen": 234,
+        "Oliver": 403,
+        "Torres": 514
+      }
+    },
+    "Thomasfurt": {
+      "Democrats": {
+        "Patel": 142,
+        "Abbott": 396,
+        "Ortega": 391,
+        "Sherman": 131,
+        "Lewis": 169
+      },
+      "Republicans": {
+        "Fletcher": 320,
+        "Hampton": 493,
+        "Russell": 525,
+        "Owen": 14,
+        "Oliver": 516,
+        "Torres": 325
+      }
+    },
+    "Port David": {
+      "Democrats": {
+        "Patel": 518,
+        "Abbott": 244,
+        "Ortega": 6,
+        "Sherman": 442,
+        "Lewis": 255
+      },
+      "Republicans": {
+        "Fletcher": 102,
+        "Hampton": 561,
+        "Russell": 513,
+        "Owen": 319,
+        "Oliver": 276,
+        "Torres": 328
+      }
+    }
+  },
+  "Washington": {
+    "Kirbyburgh": {
+      "Democrats": {
+        "Patel": 71,
+        "Abbott": 288,
+        "Ortega": 108,
+        "Sherman": 228,
+        "Lewis": 179
+      },
+      "Republicans": {
+        "Fletcher": 382,
+        "Hampton": 591,
+        "Russell": 97,
+        "Owen": 210,
+        "Oliver": 268,
+        "Torres": 513
+      }
+    },
+    "West Sylviamouth": {
+      "Democrats": {
+        "Patel": 595,
+        "Abbott": 312,
+        "Ortega": 183,
+        "Sherman": 291,
+        "Lewis": 101
+      },
+      "Republicans": {
+        "Fletcher": 382,
+        "Hampton": 545,
+        "Russell": 373,
+        "Owen": 581,
+        "Oliver": 414,
+        "Torres": 427
+      }
+    }
+  },
+  "Pennsylvania": {
+    "Andreaville": {
+      "Democrats": {
+        "Patel": 409,
+        "Abbott": 354,
+        "Ortega": 310,
+        "Sherman": 22,
+        "Lewis": 282
+      },
+      "Republicans": {
+        "Fletcher": 319,
+        "Hampton": 269,
+        "Russell": 539,
+        "Owen": 387,
+        "Oliver": 334,
+        "Torres": 3
+      }
+    },
+    "Thompsonmouth": {
+      "Democrats": {
+        "Patel": 315,
+        "Abbott": 1,
+        "Ortega": 591,
+        "Sherman": 71,
+        "Lewis": 24
+      },
+      "Republicans": {
+        "Fletcher": 143,
+        "Hampton": 149,
+        "Russell": 444,
+        "Owen": 96,
+        "Oliver": 232,
+        "Torres": 268
+      }
+    }
+  },
+  "South Dakota": {
+    "Birdfort": {
+      "Democrats": {
+        "Patel": 508,
+        "Abbott": 276,
+        "Ortega": 303,
+        "Sherman": 36,
+        "Lewis": 423
+      },
+      "Republicans": {
+        "Fletcher": 597,
+        "Hampton": 569,
+        "Russell": 482,
+        "Owen": 16,
+        "Oliver": 505,
+        "Torres": 449
+      }
+    },
+    "Rodriguezberg": {
+      "Democrats": {
+        "Patel": 142,
+        "Abbott": 234,
+        "Ortega": 225,
+        "Sherman": 396,
+        "Lewis": 430
+      },
+      "Republicans": {
+        "Fletcher": 398,
+        "Hampton": 31,
+        "Russell": 391,
+        "Owen": 542,
+        "Oliver": 23,
+        "Torres": 70
+      }
+    },
+    "West Shane": {
+      "Democrats": {
+        "Patel": 274,
+        "Abbott": 318,
+        "Ortega": 65,
+        "Sherman": 264,
+        "Lewis": 157
+      },
+      "Republicans": {
+        "Fletcher": 14,
+        "Hampton": 578,
+        "Russell": 268,
+        "Owen": 206,
+        "Oliver": 139,
+        "Torres": 12
+      }
+    },
+    "Peterfurt": {
+      "Democrats": {
+        "Patel": 49,
+        "Abbott": 377,
+        "Ortega": 384,
+        "Sherman": 77,
+        "Lewis": 304
+      },
+      "Republicans": {
+        "Fletcher": 143,
+        "Hampton": 152,
+        "Russell": 318,
+        "Owen": 279,
+        "Oliver": 574,
+        "Torres": 386
+      }
+    }
+  },
+  "Wyoming": {
+    "Kennethville": {
+      "Democrats": {
+        "Patel": 73,
+        "Abbott": 299,
+        "Ortega": 97,
+        "Sherman": 45,
+        "Lewis": 181
+      },
+      "Republicans": {
+        "Fletcher": 31,
+        "Hampton": 549,
+        "Russell": 97,
+        "Owen": 110,
+        "Oliver": 116,
+        "Torres": 260
+      }
+    },
+    "Ellisside": {
+      "Democrats": {
+        "Patel": 3,
+        "Abbott": 568,
+        "Ortega": 386,
+        "Sherman": 541,
+        "Lewis": 456
+      },
+      "Republicans": {
+        "Fletcher": 41,
+        "Hampton": 504,
+        "Russell": 472,
+        "Owen": 269,
+        "Oliver": 73,
+        "Torres": 348
+      }
+    },
+    "Beckfort": {
+      "Democrats": {
+        "Patel": 569,
+        "Abbott": 584,
+        "Ortega": 418,
+        "Sherman": 34,
+        "Lewis": 490
+      },
+      "Republicans": {
+        "Fletcher": 374,
+        "Hampton": 223,
+        "Russell": 373,
+        "Owen": 443,
+        "Oliver": 80,
+        "Torres": 562
+      }
+    }
+  },
+  "Arkansas": {
+    "Robertsville": {
+      "Democrats": {
+        "Patel": 455,
+        "Abbott": 177,
+        "Ortega": 112,
+        "Sherman": 470,
+        "Lewis": 222
+      },
+      "Republicans": {
+        "Fletcher": 74,
+        "Hampton": 572,
+        "Russell": 244,
+        "Owen": 337,
+        "Oliver": 156,
+        "Torres": 592
+      }
+    },
+    "West Bethany": {
+      "Democrats": {
+        "Patel": 134,
+        "Abbott": 44,
+        "Ortega": 105,
+        "Sherman": 84,
+        "Lewis": 407
+      },
+      "Republicans": {
+        "Fletcher": 218,
+        "Hampton": 57,
+        "Russell": 354,
+        "Owen": 574,
+        "Oliver": 544,
+        "Torres": 218
+      }
+    }
+  },
+  "Maryland": {
+    "North Michaelton": {
+      "Democrats": {
+        "Patel": 492,
+        "Abbott": 330,
+        "Ortega": 326,
+        "Sherman": 437,
+        "Lewis": 125
+      },
+      "Republicans": {
+        "Fletcher": 78,
+        "Hampton": 122,
+        "Russell": 65,
+        "Owen": 409,
+        "Oliver": 109,
+        "Torres": 309
+      }
+    },
+    "New Josephmouth": {
+      "Democrats": {
+        "Patel": 218,
+        "Abbott": 56,
+        "Ortega": 119,
+        "Sherman": 6,
+        "Lewis": 439
+      },
+      "Republicans": {
+        "Fletcher": 555,
+        "Hampton": 533,
+        "Russell": 321,
+        "Owen": 226,
+        "Oliver": 77,
+        "Torres": 474
+      }
+    }
+  },
+  "New Hampshire": {
+    "Stephensburgh": {
+      "Democrats": {
+        "Patel": 218,
+        "Abbott": 484,
+        "Ortega": 30,
+        "Sherman": 98,
+        "Lewis": 406
+      },
+      "Republicans": {
+        "Fletcher": 203,
+        "Hampton": 458,
+        "Russell": 255,
+        "Owen": 397,
+        "Oliver": 571,
+        "Torres": 145
+      }
+    },
+    "New Laura": {
+      "Democrats": {
+        "Patel": 299,
+        "Abbott": 398,
+        "Ortega": 421,
+        "Sherman": 514,
+        "Lewis": 595
+      },
+      "Republicans": {
+        "Fletcher": 281,
+        "Hampton": 39,
+        "Russell": 81,
+        "Owen": 230,
+        "Oliver": 49,
+        "Torres": 227
+      }
+    },
+    "Walkermouth": {
+      "Democrats": {
+        "Patel": 119,
+        "Abbott": 155,
+        "Ortega": 83,
+        "Sherman": 38,
+        "Lewis": 317
+      },
+      "Republicans": {
+        "Fletcher": 382,
+        "Hampton": 507,
+        "Russell": 241,
+        "Owen": 557,
+        "Oliver": 436,
+        "Torres": 17
+      }
+    },
+    "Lake Michael": {
+      "Democrats": {
+        "Patel": 550,
+        "Abbott": 254,
+        "Ortega": 23,
+        "Sherman": 149,
+        "Lewis": 260
+      },
+      "Republicans": {
+        "Fletcher": 412,
+        "Hampton": 507,
+        "Russell": 422,
+        "Owen": 97,
+        "Oliver": 465,
+        "Torres": 232
+      }
+    }
+  },
+  "Indiana": {
+    "West Emily": {
+      "Democrats": {
+        "Patel": 417,
+        "Abbott": 185,
+        "Ortega": 216,
+        "Sherman": 223,
+        "Lewis": 101
+      },
+      "Republicans": {
+        "Fletcher": 442,
+        "Hampton": 306,
+        "Russell": 174,
+        "Owen": 386,
+        "Oliver": 511,
+        "Torres": 417
+      }
+    },
+    "Port Shane": {
+      "Democrats": {
+        "Patel": 154,
+        "Abbott": 481,
+        "Ortega": 455,
+        "Sherman": 297,
+        "Lewis": 138
+      },
+      "Republicans": {
+        "Fletcher": 443,
+        "Hampton": 162,
+        "Russell": 153,
+        "Owen": 543,
+        "Oliver": 401,
+        "Torres": 545
+      }
+    },
+    "East Joshua": {
+      "Democrats": {
+        "Patel": 120,
+        "Abbott": 261,
+        "Ortega": 150,
+        "Sherman": 109,
+        "Lewis": 487
+      },
+      "Republicans": {
+        "Fletcher": 328,
+        "Hampton": 352,
+        "Russell": 524,
+        "Owen": 516,
+        "Oliver": 372,
+        "Torres": 553
+      }
+    },
+    "South Laurenside": {
+      "Democrats": {
+        "Patel": 336,
+        "Abbott": 534,
+        "Ortega": 300,
+        "Sherman": 152,
+        "Lewis": 523
+      },
+      "Republicans": {
+        "Fletcher": 400,
+        "Hampton": 91,
+        "Russell": 505,
+        "Owen": 1,
+        "Oliver": 370,
+        "Torres": 458
+      }
+    }
+  },
+  "California": {
+    "Donnaton": {
+      "Democrats": {
+        "Patel": 530,
+        "Abbott": 470,
+        "Ortega": 2,
+        "Sherman": 75,
+        "Lewis": 9
+      },
+      "Republicans": {
+        "Fletcher": 311,
+        "Hampton": 381,
+        "Russell": 514,
+        "Owen": 147,
+        "Oliver": 370,
+        "Torres": 53
+      }
+    },
+    "West Sandraton": {
+      "Democrats": {
+        "Patel": 115,
+        "Abbott": 385,
+        "Ortega": 6,
+        "Sherman": 77,
+        "Lewis": 513
+      },
+      "Republicans": {
+        "Fletcher": 159,
+        "Hampton": 427,
+        "Russell": 211,
+        "Owen": 341,
+        "Oliver": 585,
+        "Torres": 108
+      }
+    },
+    "West Christina": {
+      "Democrats": {
+        "Patel": 422,
+        "Abbott": 42,
+        "Ortega": 573,
+        "Sherman": 310,
+        "Lewis": 71
+      },
+      "Republicans": {
+        "Fletcher": 515,
+        "Hampton": 348,
+        "Russell": 36,
+        "Owen": 183,
+        "Oliver": 587,
+        "Torres": 18
+      }
+    }
+  },
+  "Tennessee": {
+    "Mccannshire": {
+      "Democrats": {
+        "Patel": 156,
+        "Abbott": 439,
+        "Ortega": 84,
+        "Sherman": 100,
+        "Lewis": 591
+      },
+      "Republicans": {
+        "Fletcher": 220,
+        "Hampton": 242,
+        "Russell": 426,
+        "Owen": 458,
+        "Oliver": 35,
+        "Torres": 150
+      }
+    },
+    "Bishopfort": {
+      "Democrats": {
+        "Patel": 3,
+        "Abbott": 413,
+        "Ortega": 341,
+        "Sherman": 92,
+        "Lewis": 267
+      },
+      "Republicans": {
+        "Fletcher": 61,
+        "Hampton": 387,
+        "Russell": 504,
+        "Owen": 34,
+        "Oliver": 245,
+        "Torres": 309
+      }
+    }
+  },
+  "Delaware": {
+    "North Courtney": {
+      "Democrats": {
+        "Patel": 198,
+        "Abbott": 589,
+        "Ortega": 300,
+        "Sherman": 322,
+        "Lewis": 523
+      },
+      "Republicans": {
+        "Fletcher": 278,
+        "Hampton": 556,
+        "Russell": 186,
+        "Owen": 430,
+        "Oliver": 22,
+        "Torres": 372
+      }
+    },
+    "New Arthur": {
+      "Democrats": {
+        "Patel": 165,
+        "Abbott": 389,
+        "Ortega": 287,
+        "Sherman": 459,
+        "Lewis": 488
+      },
+      "Republicans": {
+        "Fletcher": 251,
+        "Hampton": 567,
+        "Russell": 209,
+        "Owen": 141,
+        "Oliver": 439,
+        "Torres": 245
+      }
+    },
+    "North Karen": {
+      "Democrats": {
+        "Patel": 447,
+        "Abbott": 27,
+        "Ortega": 186,
+        "Sherman": 276,
+        "Lewis": 246
+      },
+      "Republicans": {
+        "Fletcher": 92,
+        "Hampton": 129,
+        "Russell": 445,
+        "Owen": 481,
+        "Oliver": 35,
+        "Torres": 520
       }
     }
   }
